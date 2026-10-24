@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "GitHub 宝藏小项目",
-    "subtitle": "精选 40+ 个小而美的开源项目，一搜即达",
+    "subtitle": "精选 44 个小而美的开源项目，一搜即达",
     "githubRepo": "https://github.com/cwn-mr/github-fun-projects"
   },
   "categories": [
@@ -60,6 +60,7 @@
     { "full_name": "zhaoolee/ChineseBQB", "category": "chinese", "desc": "开源表情包博物馆，两千多张欢乐斗图素材任你用", "tags": ["表情包"] },
     { "full_name": "stevenjoezhang/live2d-widget", "category": "chinese", "desc": "给网页角落加一只会说话的看板娘，个人博客的灵魂挂件", "tags": ["挂件", "二次元"] },
     { "full_name": "Molunerfinn/PicGo", "category": "chinese", "desc": "图床神器：拖拽上传图片，一键复制 Markdown 链接", "tags": ["图床", "效率"] },
-    { "full_name": "itorr/nbnhhsh", "category": "chinese", "desc": "「能不能好好说话」：自动翻译 yyds、u1s1 这类拼音缩写黑话", "tags": ["黑话", "翻译"] }
+    { "full_name": "itorr/nbnhhsh", "category": "chinese", "desc": "「能不能好好说话」：自动翻译 yyds、u1s1 这类拼音缩写黑话", "tags": ["黑话", "翻译"] },
+    { "full_name": "eternity4719/HowToLiveBetter", "category": "chinese", "desc": "火遍全网的开源人生说明书：长寿防病、省钱理财、法律红线、婚恋育儿，条条讲性价比", "tags": ["人生指南", "生活"] }
   ]
 }
