@@ -1,0 +1,1107 @@
+{
+  "fetched_at": "2026-10-24T10:09:20.110Z",
+  "projects": [
+    {
+      "full_name": "fastfetch-cli/fastfetch",
+      "html_url": "https://github.com/fastfetch-cli/fastfetch",
+      "homepage": "",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "stargazers_count": 25133,
+      "forks_count": 931,
+      "language": "C",
+      "pushed_at": "2026-10-23T07:35:06Z",
+      "archived": false,
+      "topics": [
+        "bsdfetch",
+        "command-line",
+        "fastfetch",
+        "fetch",
+        "flashfetch",
+        "hacktoberfest",
+        "macfetch",
+        "neofetch",
+        "terminal",
+        "winfetch"
+      ],
+      "license": "MIT",
+      "category": "terminal",
+      "desc": "命令行里的「关于本机」：一行命令展示系统硬件信息，还能定制花式主题",
+      "tags": [
+        "系统信息",
+        "终端美化"
+      ]
+    },
+    {
+      "full_name": "mtoyoda/sl",
+      "html_url": "https://github.com/mtoyoda/sl",
+      "homepage": "",
+      "description": "SL(1): Cure your bad habit of mistyping",
+      "stargazers_count": 3349,
+      "forks_count": 461,
+      "language": "C",
+      "pushed_at": "2024-06-11T23:15:48Z",
+      "archived": false,
+      "topics": [],
+      "license": "NOASSERTION",
+      "category": "terminal",
+      "desc": "手滑把 ls 输成 sl？终端里会开出一辆蒸汽小火车惩罚你",
+      "tags": [
+        "整活",
+        "经典"
+      ]
+    },
+    {
+      "full_name": "abishekvashok/cmatrix",
+      "html_url": "https://github.com/abishekvashok/cmatrix",
+      "homepage": "",
+      "description": "Terminal based \"The Matrix\" like implementation",
+      "stargazers_count": 5285,
+      "forks_count": 554,
+      "language": "C",
+      "pushed_at": "2024-08-21T02:41:08Z",
+      "archived": false,
+      "topics": [
+        "c",
+        "matrix",
+        "screensaver"
+      ],
+      "license": "GPL-3.0",
+      "category": "terminal",
+      "desc": "让终端下起《黑客帝国》同款绿色字符雨，装黑客只差这一步",
+      "tags": [
+        "整活",
+        "电影感"
+      ]
+    },
+    {
+      "full_name": "busyloop/lolcat",
+      "html_url": "https://github.com/busyloop/lolcat",
+      "homepage": "",
+      "description": "Rainbows and unicorns!",
+      "stargazers_count": 6585,
+      "forks_count": 233,
+      "language": "Ruby",
+      "pushed_at": "2024-03-05T16:19:55Z",
+      "archived": false,
+      "topics": [
+        "cli",
+        "essentials"
+      ],
+      "license": "BSD-3-Clause",
+      "category": "terminal",
+      "desc": "给任何终端输出加上彩虹渐变，无用的快乐也是快乐",
+      "tags": [
+        "整活",
+        "彩虹"
+      ]
+    },
+    {
+      "full_name": "patorjk/figlet.js",
+      "html_url": "https://github.com/patorjk/figlet.js",
+      "homepage": "",
+      "description": "A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.",
+      "stargazers_count": 3037,
+      "forks_count": 187,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-22T17:37:02Z",
+      "archived": false,
+      "topics": [],
+      "license": "MIT",
+      "category": "terminal",
+      "desc": "把字母变成 ASCII 艺术大字，论坛签名时代的浪漫回来了",
+      "tags": [
+        "ASCII艺术"
+      ]
+    },
+    {
+      "full_name": "hackerb9/lsix",
+      "html_url": "https://github.com/hackerb9/lsix",
+      "homepage": "",
+      "description": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+      "stargazers_count": 4176,
+      "forks_count": 124,
+      "language": "Shell",
+      "pushed_at": "2024-06-20T15:12:30Z",
+      "archived": false,
+      "topics": [
+        "files",
+        "graphics",
+        "imagemagick",
+        "ls",
+        "montage",
+        "sixel-graphics",
+        "terminal",
+        "terminal-graphics",
+        "thumbnails",
+        "vt340",
+        "xterm"
+      ],
+      "license": "GPL-3.0",
+      "category": "terminal",
+      "desc": "在终端里直接用 ls 「列出」图片缩略图，一个脚本搞定",
+      "tags": [
+        "终端",
+        "图片"
+      ]
+    },
+    {
+      "full_name": "sharkdp/bat",
+      "html_url": "https://github.com/sharkdp/bat",
+      "homepage": "",
+      "description": "A cat(1) clone with wings.",
+      "stargazers_count": 60914,
+      "forks_count": 4321,
+      "language": "Rust",
+      "pushed_at": "2026-10-20T19:18:09Z",
+      "archived": false,
+      "topics": [
+        "cli",
+        "command-line",
+        "git",
+        "hacktoberfest",
+        "rust",
+        "syntax-highlighting",
+        "terminal",
+        "tool"
+      ],
+      "license": "Apache-2.0",
+      "category": "cli",
+      "desc": "cat 的升级版：语法高亮、Git 集成、自动分页，看代码赏心悦目",
+      "tags": [
+        "必装"
+      ]
+    },
+    {
+      "full_name": "sharkdp/fd",
+      "html_url": "https://github.com/sharkdp/fd",
+      "homepage": "",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "stargazers_count": 44846,
+      "forks_count": 1169,
+      "language": "Rust",
+      "pushed_at": "2026-10-24T05:02:05Z",
+      "archived": false,
+      "topics": [
+        "cli",
+        "command-line",
+        "filesystem",
+        "hacktoberfest",
+        "regex",
+        "rust",
+        "search",
+        "terminal",
+        "tool"
+      ],
+      "license": "Apache-2.0",
+      "category": "cli",
+      "desc": "find 的现代替代品，语法简单到不用背手册",
+      "tags": [
+        "必装"
+      ]
+    },
+    {
+      "full_name": "ajeetdsouza/zoxide",
+      "html_url": "https://github.com/ajeetdsouza/zoxide",
+      "homepage": "https://crates.io/crates/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "stargazers_count": 40268,
+      "forks_count": 933,
+      "language": "Rust",
+      "pushed_at": "2026-10-24T01:27:58Z",
+      "archived": false,
+      "topics": [
+        "autojump",
+        "bash",
+        "cli",
+        "command-line",
+        "command-line-tool",
+        "elvish",
+        "fasd",
+        "fish",
+        "fish-shell",
+        "fzf",
+        "hacktoberfest",
+        "jump",
+        "nushell",
+        "powershell",
+        "rust",
+        "shell",
+        "xonsh",
+        "xontrib",
+        "z",
+        "zsh"
+      ],
+      "license": "MIT",
+      "category": "cli",
+      "desc": "记住你去过的目录，以后 z proj 一跳直达，告别 cd 补全地狱",
+      "tags": [
+        "效率"
+      ]
+    },
+    {
+      "full_name": "nvbn/thefuck",
+      "html_url": "https://github.com/nvbn/thefuck",
+      "homepage": "",
+      "description": "Magnificent app which corrects your previous console command.",
+      "stargazers_count": 97923,
+      "forks_count": 3956,
+      "language": "Python",
+      "pushed_at": "2024-07-19T14:56:13Z",
+      "archived": false,
+      "topics": [
+        "python",
+        "shell"
+      ],
+      "license": "MIT",
+      "category": "cli",
+      "desc": "输错命令敲一下 fuck，它自动纠正并重新执行（项目原名如此）",
+      "tags": [
+        "整活",
+        "效率"
+      ]
+    },
+    {
+      "full_name": "tldr-pages/tldr",
+      "html_url": "https://github.com/tldr-pages/tldr",
+      "homepage": "https://tldr.sh",
+      "description": "Collaborative cheatsheets for console commands 📚.",
+      "stargazers_count": 64023,
+      "forks_count": 5486,
+      "language": "Markdown",
+      "pushed_at": "2026-10-24T04:37:29Z",
+      "archived": false,
+      "topics": [
+        "android",
+        "bsd",
+        "cheatsheet",
+        "cheatsheets",
+        "cli",
+        "command-line",
+        "console",
+        "documentation",
+        "examples",
+        "hacktoberfest",
+        "help",
+        "linux",
+        "macos",
+        "man-page",
+        "manual",
+        "osx",
+        "shell",
+        "terminal",
+        "tldr",
+        "windows"
+      ],
+      "license": "NOASSERTION",
+      "category": "cli",
+      "desc": "man 手册看不懂？tldr 用一个真实例子讲清每个命令怎么用",
+      "tags": [
+        "入门友好"
+      ]
+    },
+    {
+      "full_name": "tomnomnom/gron",
+      "html_url": "https://github.com/tomnomnom/gron",
+      "homepage": "",
+      "description": "Make JSON greppable!",
+      "stargazers_count": 14527,
+      "forks_count": 346,
+      "language": "Go",
+      "pushed_at": "2025-05-31T15:00:47Z",
+      "archived": false,
+      "topics": [
+        "cli",
+        "json"
+      ],
+      "license": "MIT",
+      "category": "cli",
+      "desc": "把 JSON 拆平成一格格键值对，从此 grep 也能搜 JSON",
+      "tags": [
+        "JSON"
+      ]
+    },
+    {
+      "full_name": "antonmedv/fx",
+      "html_url": "https://github.com/antonmedv/fx",
+      "homepage": "https://fx.wtf",
+      "description": "Terminal JSON viewer & processor",
+      "stargazers_count": 20695,
+      "forks_count": 495,
+      "language": "Go",
+      "pushed_at": "2026-10-22T13:49:58Z",
+      "archived": false,
+      "topics": [
+        "cli",
+        "command-line",
+        "json",
+        "tui"
+      ],
+      "license": "MIT",
+      "category": "cli",
+      "desc": "命令行里交互式浏览 JSON，方向键点开每个节点的神器",
+      "tags": [
+        "JSON"
+      ]
+    },
+    {
+      "full_name": "charmbracelet/glow",
+      "html_url": "https://github.com/charmbracelet/glow",
+      "homepage": "",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "stargazers_count": 27783,
+      "forks_count": 800,
+      "language": "Go",
+      "pushed_at": "2026-10-05T11:11:20Z",
+      "archived": false,
+      "topics": [
+        "cli",
+        "excitement",
+        "hacktoberfest",
+        "markdown"
+      ],
+      "license": "MIT",
+      "category": "cli",
+      "desc": "在终端里优雅地阅读 Markdown，排版美到不像终端",
+      "tags": [
+        "Markdown"
+      ]
+    },
+    {
+      "full_name": "gabrielecirulli/2048",
+      "html_url": "https://github.com/gabrielecirulli/2048",
+      "homepage": "https://play2048.co",
+      "description": "The source code for 2048 ",
+      "stargazers_count": 13446,
+      "forks_count": 17607,
+      "language": "JavaScript",
+      "pushed_at": "2024-10-24T13:06:19Z",
+      "archived": false,
+      "topics": [
+        "2048",
+        "2048-game",
+        "game",
+        "javascript",
+        "online-game",
+        "puzzle-game"
+      ],
+      "license": "MIT",
+      "category": "web",
+      "desc": "合并数字的传奇小游戏，当年无数人周末消失的原因",
+      "tags": [
+        "游戏",
+        "经典"
+      ]
+    },
+    {
+      "full_name": "1j01/98",
+      "html_url": "https://github.com/1j01/98",
+      "homepage": "https://98.js.org",
+      "description": "💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎",
+      "stargazers_count": 1437,
+      "forks_count": 221,
+      "language": "JavaScript",
+      "pushed_at": "2025-05-23T15:26:00Z",
+      "archived": false,
+      "topics": [
+        "classic",
+        "desktop",
+        "emulator",
+        "html",
+        "javascript",
+        "operating-system",
+        "os",
+        "remake",
+        "retro",
+        "web-desktop",
+        "windows",
+        "windows-95",
+        "windows-98"
+      ],
+      "license": null,
+      "category": "web",
+      "desc": "在浏览器里完整复刻 Windows 98：开始菜单、画图、扫雷全都能用",
+      "tags": [
+        "怀旧",
+        "操作系统"
+      ]
+    },
+    {
+      "full_name": "timqian/chart.xkcd",
+      "html_url": "https://github.com/timqian/chart.xkcd",
+      "homepage": "https://timqian.com/chart.xkcd/",
+      "description": "xkcd styled chart lib",
+      "stargazers_count": 7869,
+      "forks_count": 207,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-21T16:32:17Z",
+      "archived": false,
+      "topics": [
+        "chart",
+        "graph",
+        "hand-drawn",
+        "html5",
+        "html5-charts",
+        "svg",
+        "svg-sprite",
+        "xkcd"
+      ],
+      "license": "MIT",
+      "category": "web",
+      "desc": "手绘 xkcd 漫画风格的图表库，数据可视化也能很有趣",
+      "tags": [
+        "可视化"
+      ]
+    },
+    {
+      "full_name": "rough-stuff/rough",
+      "html_url": "https://github.com/rough-stuff/rough",
+      "homepage": "http://roughjs.com",
+      "description": "Create graphics with a hand-drawn, sketchy, appearance",
+      "stargazers_count": 21304,
+      "forks_count": 667,
+      "language": "HTML",
+      "pushed_at": "2024-07-28T21:12:58Z",
+      "archived": false,
+      "topics": [
+        "canvas",
+        "draw",
+        "graphics",
+        "html5-canvas",
+        "svg",
+        "svg-path"
+      ],
+      "license": "MIT",
+      "category": "web",
+      "desc": "让 canvas/svg 画出可爱的手绘涂鸦风，众多白板工具的秘密引擎",
+      "tags": [
+        "可视化",
+        "手绘"
+      ]
+    },
+    {
+      "full_name": "anvaka/city-roads",
+      "html_url": "https://github.com/anvaka/city-roads",
+      "homepage": "https://anvaka.github.io/city-roads/",
+      "description": "Visualization of all roads within any city",
+      "stargazers_count": 9783,
+      "forks_count": 757,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-10T15:19:18Z",
+      "archived": false,
+      "topics": [],
+      "license": "MIT",
+      "category": "web",
+      "desc": "输入城市名，把整座城市的道路网渲染成一张艺术海报",
+      "tags": [
+        "可视化",
+        "地图"
+      ]
+    },
+    {
+      "full_name": "ellisonleao/clumsy-bird",
+      "html_url": "https://github.com/ellisonleao/clumsy-bird",
+      "homepage": "http://ellisonleao.github.io/clumsy-bird/",
+      "description": ":bird: :video_game: A MelonJS port of the famous Flappy Bird Game",
+      "stargazers_count": 1630,
+      "forks_count": 1115,
+      "language": "JavaScript",
+      "pushed_at": "2018-04-13T23:19:54Z",
+      "archived": true,
+      "topics": [
+        "flappy-bird",
+        "game",
+        "game-development",
+        "javascript",
+        "melonjs"
+      ],
+      "license": "GPL-3.0",
+      "category": "web",
+      "desc": "Flappy Bird 开源克隆，源码简单清晰，学游戏开发的第一步",
+      "tags": [
+        "游戏",
+        "入门友好"
+      ]
+    },
+    {
+      "full_name": "yyx990803/vue-wordle",
+      "html_url": "https://github.com/yyx990803/vue-wordle",
+      "homepage": "https://vue-wordle.netlify.app/",
+      "description": "Wordle built with Vue, aka VVordle",
+      "stargazers_count": 595,
+      "forks_count": 197,
+      "language": "TypeScript",
+      "pushed_at": "2023-02-07T01:45:47Z",
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "category": "web",
+      "desc": "Vue 作者尤雨溪亲手写的 Wordle 猜单词克隆，代码极简，边玩边学",
+      "tags": [
+        "游戏",
+        "单词",
+        "Vue"
+      ]
+    },
+    {
+      "full_name": "jakesgordon/javascript-tetris",
+      "html_url": "https://github.com/jakesgordon/javascript-tetris",
+      "homepage": "https://jakesgordon.com/writing/javascript-tetris/",
+      "description": "A simple javascript tetris game",
+      "stargazers_count": 736,
+      "forks_count": 893,
+      "language": "HTML",
+      "pushed_at": "2025-06-01T22:06:57Z",
+      "archived": false,
+      "topics": [],
+      "license": "MIT",
+      "category": "web",
+      "desc": "零依赖、注释详细的俄罗斯方块实现，边玩边学最合适",
+      "tags": [
+        "游戏",
+        "入门友好"
+      ]
+    },
+    {
+      "full_name": "feross/bitmidi.com",
+      "html_url": "https://github.com/feross/bitmidi.com",
+      "homepage": "https://bitmidi.com",
+      "description": "🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web",
+      "stargazers_count": 619,
+      "forks_count": 55,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-10T16:58:49Z",
+      "archived": false,
+      "topics": [
+        "audio",
+        "javascript",
+        "midi",
+        "midi-files",
+        "midi-player",
+        "music",
+        "nodejs",
+        "website"
+      ],
+      "license": null,
+      "category": "web",
+      "desc": "十余万首 MIDI 老歌在浏览器里直接播放，一秒回到 QQ 时代",
+      "tags": [
+        "音乐",
+        "怀旧"
+      ]
+    },
+    {
+      "full_name": "iamkun/dayjs",
+      "html_url": "https://github.com/iamkun/dayjs",
+      "homepage": "https://day.js.org",
+      "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
+      "stargazers_count": 48658,
+      "forks_count": 5055,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-15T11:35:36Z",
+      "archived": false,
+      "topics": [
+        "date",
+        "date-formatting",
+        "datetime",
+        "dayjs",
+        "moment",
+        "time"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "只有 2KB 的日期库，API 兼容 Moment.js，功能一个不少",
+      "tags": [
+        "日期"
+      ]
+    },
+    {
+      "full_name": "developit/mitt",
+      "html_url": "https://github.com/developit/mitt",
+      "homepage": "https://npm.im/mitt",
+      "description": "🥊 Tiny 200 byte functional event emitter / pubsub.",
+      "stargazers_count": 11903,
+      "forks_count": 494,
+      "language": "TypeScript",
+      "pushed_at": "2024-08-14T08:58:20Z",
+      "archived": false,
+      "topics": [
+        "event",
+        "event-bus",
+        "event-handlers",
+        "event-listener",
+        "eventemitter",
+        "mitt",
+        "pubsub",
+        "tiny"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "不到 200 字节的事件发射器，小到能把源码背下来",
+      "tags": [
+        "事件"
+      ]
+    },
+    {
+      "full_name": "zenorocha/clipboard.js",
+      "html_url": "https://github.com/zenorocha/clipboard.js",
+      "homepage": "https://clipboardjs.com",
+      "description": ":scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:",
+      "stargazers_count": 34098,
+      "forks_count": 3901,
+      "language": "JavaScript",
+      "pushed_at": "2026-02-12T18:51:57Z",
+      "archived": false,
+      "topics": [
+        "clipboard",
+        "javascript"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "两行代码搞定「复制到剪贴板」，现代剪贴板操作的开山小库",
+      "tags": [
+        "剪贴板"
+      ]
+    },
+    {
+      "full_name": "js-cookie/js-cookie",
+      "html_url": "https://github.com/js-cookie/js-cookie",
+      "homepage": "",
+      "description": "A simple, lightweight JavaScript API for handling cookies, client-side.",
+      "stargazers_count": 22569,
+      "forks_count": 2045,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-23T21:33:01Z",
+      "archived": false,
+      "topics": [
+        "cookie",
+        "javascript"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "操作 Cookie 的最优雅 API，一个文件搞定所有浏览器",
+      "tags": [
+        "Cookie"
+      ]
+    },
+    {
+      "full_name": "necolas/normalize.css",
+      "html_url": "https://github.com/necolas/normalize.css",
+      "homepage": "http://necolas.github.io/normalize.css/",
+      "description": "A modern alternative to CSS resets",
+      "stargazers_count": 53493,
+      "forks_count": 10294,
+      "language": "CSS",
+      "pushed_at": "2024-06-12T20:36:06Z",
+      "archived": false,
+      "topics": [
+        "css",
+        "css-reset",
+        "normalize-css"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "让所有浏览器渲染一致的几行 CSS，无数网站身后的隐形地基",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "full_name": "kognise/water.css",
+      "html_url": "https://github.com/kognise/water.css",
+      "homepage": "https://watercss.kognise.dev",
+      "description": "A drop-in collection of CSS styles to make simple websites just a little nicer",
+      "stargazers_count": 8655,
+      "forks_count": 498,
+      "language": "CSS",
+      "pushed_at": "2024-02-11T14:50:20Z",
+      "archived": false,
+      "topics": [
+        "css",
+        "css-framework",
+        "hacktoberfest",
+        "minimal",
+        "simple"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "引入一行 link，裸 HTML 立刻变好看，无需写任何 class",
+      "tags": [
+        "CSS",
+        "无框架"
+      ]
+    },
+    {
+      "full_name": "oxalorg/sakura",
+      "html_url": "https://github.com/oxalorg/sakura",
+      "homepage": "https://oxal.org/projects/sakura",
+      "description": ":cherry_blossom: a minimal css framework/theme.",
+      "stargazers_count": 4392,
+      "forks_count": 182,
+      "language": "HTML",
+      "pushed_at": "2026-04-07T01:47:31Z",
+      "archived": false,
+      "topics": [
+        "classless",
+        "classless-theme",
+        "css",
+        "css-framework",
+        "design",
+        "sakura",
+        "theme",
+        "web"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "同思路的樱花粉主题：不写一行 CSS 也拥有优雅排版",
+      "tags": [
+        "CSS",
+        "无框架"
+      ]
+    },
+    {
+      "full_name": "sindresorhus/is",
+      "html_url": "https://github.com/sindresorhus/is",
+      "homepage": "",
+      "description": "Type check values",
+      "stargazers_count": 1798,
+      "forks_count": 137,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-18T19:10:10Z",
+      "archived": false,
+      "topics": [
+        "assertions",
+        "is",
+        "node-module",
+        "npm-package",
+        "type-check",
+        "type-detection",
+        "typescript"
+      ],
+      "license": "MIT",
+      "category": "libs",
+      "desc": "一行一个类型判断函数，TypeScript 类型体操的天花板之作",
+      "tags": [
+        "类型"
+      ]
+    },
+    {
+      "full_name": "krahets/hello-algo",
+      "html_url": "https://github.com/krahets/hello-algo",
+      "homepage": "https://www.hello-algo.com",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "stargazers_count": 130946,
+      "forks_count": 15475,
+      "language": "Java",
+      "pushed_at": "2026-10-10T21:51:10Z",
+      "archived": false,
+      "topics": [
+        "algo",
+        "algorithm",
+        "algorithms",
+        "book",
+        "data-structure",
+        "data-structures",
+        "data-structures-and-algorithms",
+        "dsa",
+        "education",
+        "leetcode",
+        "programming"
+      ],
+      "license": "NOASSERTION",
+      "category": "learn",
+      "desc": "动画图解数据结构与算法，多语言代码可跑，中文开源科普顶流",
+      "tags": [
+        "算法",
+        "动画"
+      ]
+    },
+    {
+      "full_name": "jlevy/the-art-of-command-line",
+      "html_url": "https://github.com/jlevy/the-art-of-command-line",
+      "homepage": "",
+      "description": "Master the command line, in one page",
+      "stargazers_count": 162587,
+      "forks_count": 14833,
+      "language": null,
+      "pushed_at": "2024-06-25T18:13:44Z",
+      "archived": false,
+      "topics": [
+        "bash",
+        "documentation",
+        "linux",
+        "macos",
+        "unix",
+        "windows"
+      ],
+      "license": null,
+      "category": "learn",
+      "desc": "《命令行的艺术》：一页读完，命令行功力大增",
+      "tags": [
+        "命令行"
+      ]
+    },
+    {
+      "full_name": "norvig/pytudes",
+      "html_url": "https://github.com/norvig/pytudes",
+      "homepage": "",
+      "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+      "stargazers_count": 24415,
+      "forks_count": 2472,
+      "language": "Jupyter Notebook",
+      "pushed_at": "2026-10-22T18:12:31Z",
+      "archived": false,
+      "topics": [
+        "demonstrate-skills",
+        "practice",
+        "programming",
+        "python",
+        "python-3"
+      ],
+      "license": "MIT",
+      "category": "learn",
+      "desc": "Peter Norvig 的 Python 小品集：二十行代码写出拼写检查器",
+      "tags": [
+        "Python",
+        "练习"
+      ]
+    },
+    {
+      "full_name": "521xueweihan/HelloGitHub",
+      "html_url": "https://github.com/521xueweihan/HelloGitHub",
+      "homepage": "https://hellogithub.com",
+      "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "stargazers_count": 184045,
+      "forks_count": 13080,
+      "language": "Python",
+      "pushed_at": "2026-09-28T00:11:38Z",
+      "archived": false,
+      "topics": [
+        "awesome",
+        "github",
+        "hellogithub",
+        "python"
+      ],
+      "license": null,
+      "category": "learn",
+      "desc": "每月精选 GitHub 趣味入门项目的杂志，本站的灵感来源",
+      "tags": [
+        "杂志",
+        "推荐"
+      ]
+    },
+    {
+      "full_name": "labuladong/fucking-algorithm",
+      "html_url": "https://github.com/labuladong/fucking-algorithm",
+      "homepage": "https://labuladong.online/",
+      "description": "Crack LeetCode, not only how, but also why. ",
+      "stargazers_count": 135956,
+      "forks_count": 23528,
+      "language": "Markdown",
+      "pushed_at": "2026-10-18T11:43:51Z",
+      "archived": false,
+      "topics": [
+        "algorithms",
+        "computer-science",
+        "data-structures",
+        "dynamic-programming",
+        "dynamic-programming-algorithm",
+        "interview-questions",
+        "kmp",
+        "leetcode"
+      ],
+      "license": null,
+      "category": "learn",
+      "desc": "最系统的刷题套路笔记，把算法讲成框架（项目名很响亮）",
+      "tags": [
+        "算法",
+        "面试"
+      ]
+    },
+    {
+      "full_name": "nbedos/termtosvg",
+      "html_url": "https://github.com/nbedos/termtosvg",
+      "homepage": "https://nbedos.github.io/termtosvg/",
+      "description": "Record terminal sessions as SVG animations",
+      "stargazers_count": 9755,
+      "forks_count": 435,
+      "language": "Python",
+      "pushed_at": "2020-06-16T11:01:41Z",
+      "archived": true,
+      "topics": [
+        "animation",
+        "cli",
+        "recorder",
+        "recording",
+        "shell",
+        "svg",
+        "svg-animations",
+        "terminal"
+      ],
+      "license": "BSD-3-Clause",
+      "category": "learn",
+      "desc": "把终端操作录制成 SVG 动画，写教程演示的神器",
+      "tags": [
+        "录制",
+        "教程"
+      ]
+    },
+    {
+      "full_name": "chinese-poetry/chinese-poetry",
+      "html_url": "https://github.com/chinese-poetry/chinese-poetry",
+      "homepage": "https://awesome-poetry.top/",
+      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+      "stargazers_count": 53824,
+      "forks_count": 10849,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-17T01:56:08Z",
+      "archived": false,
+      "topics": [
+        "chinese",
+        "chinese-poetry",
+        "ci",
+        "json",
+        "poetry",
+        "tangshi"
+      ],
+      "license": "MIT",
+      "category": "chinese",
+      "desc": "最全的中华古诗词数据库：上百万首诗、三万位诗人随你取用",
+      "tags": [
+        "数据",
+        "诗词"
+      ]
+    },
+    {
+      "full_name": "pwxcoo/chinese-xinhua",
+      "html_url": "https://github.com/pwxcoo/chinese-xinhua",
+      "homepage": "",
+      "description": ":orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+      "stargazers_count": 11730,
+      "forks_count": 2710,
+      "language": "Python",
+      "pushed_at": "2023-12-26T08:52:43Z",
+      "archived": false,
+      "topics": [
+        "chinese",
+        "chinese-characters",
+        "chinese-language",
+        "chinese-nlp",
+        "chinese-simplified",
+        "chinese-traditional",
+        "data",
+        "json",
+        "json-data",
+        "json-dataset",
+        "python3",
+        "scraper"
+      ],
+      "license": "MIT",
+      "category": "chinese",
+      "desc": "开源新华字典：汉字、成语、词语、歇后语一次性打包",
+      "tags": [
+        "数据",
+        "词典"
+      ]
+    },
+    {
+      "full_name": "zhaoolee/ChineseBQB",
+      "html_url": "https://github.com/zhaoolee/ChineseBQB",
+      "homepage": "https://zhaoolee.com/ChineseBQB/",
+      "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
+      "stargazers_count": 16311,
+      "forks_count": 1340,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-23T03:13:56Z",
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "category": "chinese",
+      "desc": "开源表情包博物馆，两千多张欢乐斗图素材任你用",
+      "tags": [
+        "表情包"
+      ]
+    },
+    {
+      "full_name": "stevenjoezhang/live2d-widget",
+      "html_url": "https://github.com/stevenjoezhang/live2d-widget",
+      "homepage": "https://zhangshuqiao.org/2018-07/在网页中添加Live2D看板娘",
+      "description": "把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform",
+      "stargazers_count": 11001,
+      "forks_count": 2600,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-22T12:15:44Z",
+      "archived": false,
+      "topics": [
+        "javascript-plugin",
+        "live2d"
+      ],
+      "license": "GPL-3.0",
+      "category": "chinese",
+      "desc": "给网页角落加一只会说话的看板娘，个人博客的灵魂挂件",
+      "tags": [
+        "挂件",
+        "二次元"
+      ]
+    },
+    {
+      "full_name": "Molunerfinn/PicGo",
+      "html_url": "https://github.com/Molunerfinn/PicGo",
+      "homepage": "https://picgo.app/",
+      "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+      "stargazers_count": 27400,
+      "forks_count": 2333,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-20T09:13:53Z",
+      "archived": false,
+      "topics": [
+        "aliyun-oss",
+        "cloudflare-r2",
+        "dsh-plugin",
+        "electron",
+        "electron-app",
+        "electron-vue",
+        "github",
+        "image",
+        "imageuploader",
+        "imgur",
+        "imgur-uploader",
+        "qiniu",
+        "s3-uploader",
+        "smms",
+        "tencent-cos",
+        "upyun",
+        "vue",
+        "weibo"
+      ],
+      "license": "MIT",
+      "category": "chinese",
+      "desc": "图床神器：拖拽上传图片，一键复制 Markdown 链接",
+      "tags": [
+        "图床",
+        "效率"
+      ]
+    },
+    {
+      "full_name": "itorr/nbnhhsh",
+      "html_url": "https://github.com/itorr/nbnhhsh",
+      "homepage": "https://lab.magiconch.com/nbnhhsh/",
+      "description": "😩「能不能好好说话？」 拼音首字母缩写翻译工具",
+      "stargazers_count": 6282,
+      "forks_count": 247,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-13T18:37:40Z",
+      "archived": false,
+      "topics": [
+        "javascript",
+        "userscript"
+      ],
+      "license": "Apache-2.0",
+      "category": "chinese",
+      "desc": "「能不能好好说话」：自动翻译 yyds、u1s1 这类拼音缩写黑话",
+      "tags": [
+        "黑话",
+        "翻译"
+      ]
+    }
+  ]
+}

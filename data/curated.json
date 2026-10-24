@@ -1,0 +1,65 @@
+{
+  "site": {
+    "title": "GitHub 宝藏小项目",
+    "subtitle": "精选 40+ 个小而美的开源项目，一搜即达",
+    "githubRepo": "https://github.com/cwn-mr/github-fun-projects"
+  },
+  "categories": [
+    { "id": "terminal", "name": "终端乐趣", "emoji": "⌨️", "blurb": "让黑窗口变得好玩" },
+    { "id": "cli", "name": "命令行神器", "emoji": "🛠️", "blurb": "装完就离不开的小工具" },
+    { "id": "web", "name": "网页玩具", "emoji": "🕹️", "blurb": "打开浏览器就能玩" },
+    { "id": "libs", "name": "小而美库", "emoji": "📦", "blurb": "几十行代码改变世界" },
+    { "id": "learn", "name": "学习宝库", "emoji": "📚", "blurb": "有趣又涨知识" },
+    { "id": "chinese", "name": "中文宝藏", "emoji": "🏮", "blurb": "中文开发者的快乐源泉" }
+  ],
+  "projects": [
+    { "full_name": "fastfetch-cli/fastfetch", "category": "terminal", "desc": "命令行里的「关于本机」：一行命令展示系统硬件信息，还能定制花式主题", "tags": ["系统信息", "终端美化"] },
+    { "full_name": "mtoyoda/sl", "category": "terminal", "desc": "手滑把 ls 输成 sl？终端里会开出一辆蒸汽小火车惩罚你", "tags": ["整活", "经典"] },
+    { "search": "cmatrix", "searchName": "cmatrix", "category": "terminal", "desc": "让终端下起《黑客帝国》同款绿色字符雨，装黑客只差这一步", "tags": ["整活", "电影感"] },
+    { "full_name": "busyloop/lolcat", "category": "terminal", "desc": "给任何终端输出加上彩虹渐变，无用的快乐也是快乐", "tags": ["整活", "彩虹"] },
+    { "full_name": "patorjk/figlet.js", "category": "terminal", "desc": "把字母变成 ASCII 艺术大字，论坛签名时代的浪漫回来了", "tags": ["ASCII艺术"] },
+    { "full_name": "hackerb9/lsix", "category": "terminal", "desc": "在终端里直接用 ls 「列出」图片缩略图，一个脚本搞定", "tags": ["终端", "图片"] },
+
+    { "full_name": "sharkdp/bat", "category": "cli", "desc": "cat 的升级版：语法高亮、Git 集成、自动分页，看代码赏心悦目", "tags": ["必装"] },
+    { "full_name": "sharkdp/fd", "category": "cli", "desc": "find 的现代替代品，语法简单到不用背手册", "tags": ["必装"] },
+    { "full_name": "ajeetdsouza/zoxide", "category": "cli", "desc": "记住你去过的目录，以后 z proj 一跳直达，告别 cd 补全地狱", "tags": ["效率"] },
+    { "full_name": "nvbn/thefuck", "category": "cli", "desc": "输错命令敲一下 fuck，它自动纠正并重新执行（项目原名如此）", "tags": ["整活", "效率"] },
+    { "full_name": "tldr-pages/tldr", "category": "cli", "desc": "man 手册看不懂？tldr 用一个真实例子讲清每个命令怎么用", "tags": ["入门友好"] },
+    { "full_name": "tomnomnom/gron", "category": "cli", "desc": "把 JSON 拆平成一格格键值对，从此 grep 也能搜 JSON", "tags": ["JSON"] },
+    { "full_name": "antonmedv/fx", "category": "cli", "desc": "命令行里交互式浏览 JSON，方向键点开每个节点的神器", "tags": ["JSON"] },
+    { "full_name": "charmbracelet/glow", "category": "cli", "desc": "在终端里优雅地阅读 Markdown，排版美到不像终端", "tags": ["Markdown"] },
+
+    { "full_name": "gabrielecirulli/2048", "category": "web", "desc": "合并数字的传奇小游戏，当年无数人周末消失的原因", "tags": ["游戏", "经典"] },
+    { "full_name": "1j01/98", "category": "web", "desc": "在浏览器里完整复刻 Windows 98：开始菜单、画图、扫雷全都能用", "tags": ["怀旧", "操作系统"] },
+    { "full_name": "timqian/chart.xkcd", "category": "web", "desc": "手绘 xkcd 漫画风格的图表库，数据可视化也能很有趣", "tags": ["可视化"] },
+    { "full_name": "rough-stuff/rough", "category": "web", "desc": "让 canvas/svg 画出可爱的手绘涂鸦风，众多白板工具的秘密引擎", "tags": ["可视化", "手绘"] },
+    { "full_name": "anvaka/city-roads", "category": "web", "desc": "输入城市名，把整座城市的道路网渲染成一张艺术海报", "tags": ["可视化", "地图"] },
+    { "full_name": "ellisonleao/clumsy-bird", "category": "web", "desc": "Flappy Bird 开源克隆，源码简单清晰，学游戏开发的第一步", "tags": ["游戏", "入门友好"] },
+    { "full_name": "yyx990803/vue-wordle", "category": "web", "desc": "Vue 作者尤雨溪亲手写的 Wordle 猜单词克隆，代码极简，边玩边学", "tags": ["游戏", "单词", "Vue"] },
+    { "full_name": "jakesgordon/javascript-tetris", "category": "web", "desc": "零依赖、注释详细的俄罗斯方块实现，边玩边学最合适", "tags": ["游戏", "入门友好"] },
+    { "search": "bitmidi", "searchOwner": "feross", "category": "web", "desc": "十余万首 MIDI 老歌在浏览器里直接播放，一秒回到 QQ 时代", "tags": ["音乐", "怀旧"] },
+
+    { "full_name": "iamkun/dayjs", "category": "libs", "desc": "只有 2KB 的日期库，API 兼容 Moment.js，功能一个不少", "tags": ["日期"] },
+    { "full_name": "developit/mitt", "category": "libs", "desc": "不到 200 字节的事件发射器，小到能把源码背下来", "tags": ["事件"] },
+    { "full_name": "zenorocha/clipboard.js", "category": "libs", "desc": "两行代码搞定「复制到剪贴板」，现代剪贴板操作的开山小库", "tags": ["剪贴板"] },
+    { "full_name": "js-cookie/js-cookie", "category": "libs", "desc": "操作 Cookie 的最优雅 API，一个文件搞定所有浏览器", "tags": ["Cookie"] },
+    { "full_name": "necolas/normalize.css", "category": "libs", "desc": "让所有浏览器渲染一致的几行 CSS，无数网站身后的隐形地基", "tags": ["CSS"] },
+    { "full_name": "kognise/water.css", "category": "libs", "desc": "引入一行 link，裸 HTML 立刻变好看，无需写任何 class", "tags": ["CSS", "无框架"] },
+    { "full_name": "oxalorg/sakura", "category": "libs", "desc": "同思路的樱花粉主题：不写一行 CSS 也拥有优雅排版", "tags": ["CSS", "无框架"] },
+    { "full_name": "sindresorhus/is", "category": "libs", "desc": "一行一个类型判断函数，TypeScript 类型体操的天花板之作", "tags": ["类型"] },
+
+    { "full_name": "krahets/hello-algo", "category": "learn", "desc": "动画图解数据结构与算法，多语言代码可跑，中文开源科普顶流", "tags": ["算法", "动画"] },
+    { "full_name": "jlevy/the-art-of-command-line", "category": "learn", "desc": "《命令行的艺术》：一页读完，命令行功力大增", "tags": ["命令行"] },
+    { "full_name": "norvig/pytudes", "category": "learn", "desc": "Peter Norvig 的 Python 小品集：二十行代码写出拼写检查器", "tags": ["Python", "练习"] },
+    { "full_name": "521xueweihan/HelloGitHub", "category": "learn", "desc": "每月精选 GitHub 趣味入门项目的杂志，本站的灵感来源", "tags": ["杂志", "推荐"] },
+    { "full_name": "labuladong/fucking-algorithm", "category": "learn", "desc": "最系统的刷题套路笔记，把算法讲成框架（项目名很响亮）", "tags": ["算法", "面试"] },
+    { "full_name": "nbedos/termtosvg", "category": "learn", "desc": "把终端操作录制成 SVG 动画，写教程演示的神器", "tags": ["录制", "教程"] },
+
+    { "full_name": "chinese-poetry/chinese-poetry", "category": "chinese", "desc": "最全的中华古诗词数据库：上百万首诗、三万位诗人随你取用", "tags": ["数据", "诗词"] },
+    { "full_name": "pwxcoo/chinese-xinhua", "category": "chinese", "desc": "开源新华字典：汉字、成语、词语、歇后语一次性打包", "tags": ["数据", "词典"] },
+    { "full_name": "zhaoolee/ChineseBQB", "category": "chinese", "desc": "开源表情包博物馆，两千多张欢乐斗图素材任你用", "tags": ["表情包"] },
+    { "full_name": "stevenjoezhang/live2d-widget", "category": "chinese", "desc": "给网页角落加一只会说话的看板娘，个人博客的灵魂挂件", "tags": ["挂件", "二次元"] },
+    { "full_name": "Molunerfinn/PicGo", "category": "chinese", "desc": "图床神器：拖拽上传图片，一键复制 Markdown 链接", "tags": ["图床", "效率"] },
+    { "full_name": "itorr/nbnhhsh", "category": "chinese", "desc": "「能不能好好说话」：自动翻译 yyds、u1s1 这类拼音缩写黑话", "tags": ["黑话", "翻译"] }
+  ]
+}
