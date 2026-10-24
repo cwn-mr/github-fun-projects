@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-24T10:09:20.110Z",
+  "fetched_at": "2026-10-24T11:13:30.393Z",
   "projects": [
     {
       "full_name": "fastfetch-cli/fastfetch",
       "html_url": "https://github.com/fastfetch-cli/fastfetch",
       "homepage": "",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "stargazers_count": 25133,
+      "stargazers_count": 25135,
       "forks_count": 931,
       "language": "C",
       "pushed_at": "2026-10-23T07:35:06Z",
@@ -149,7 +149,7 @@
       "html_url": "https://github.com/sharkdp/bat",
       "homepage": "",
       "description": "A cat(1) clone with wings.",
-      "stargazers_count": 60914,
+      "stargazers_count": 60915,
       "forks_count": 4321,
       "language": "Rust",
       "pushed_at": "2026-10-20T19:18:09Z",
@@ -204,7 +204,7 @@
       "html_url": "https://github.com/ajeetdsouza/zoxide",
       "homepage": "https://crates.io/crates/zoxide",
       "description": "A smarter cd command. Supports all major shells.",
-      "stargazers_count": 40268,
+      "stargazers_count": 40269,
       "forks_count": 933,
       "language": "Rust",
       "pushed_at": "2026-10-24T01:27:58Z",
@@ -371,7 +371,7 @@
       "html_url": "https://github.com/gabrielecirulli/2048",
       "homepage": "https://play2048.co",
       "description": "The source code for 2048 ",
-      "stargazers_count": 13446,
+      "stargazers_count": 13447,
       "forks_count": 17607,
       "language": "JavaScript",
       "pushed_at": "2024-10-24T13:06:19Z",
@@ -457,7 +457,7 @@
       "html_url": "https://github.com/rough-stuff/rough",
       "homepage": "http://roughjs.com",
       "description": "Create graphics with a hand-drawn, sketchy, appearance",
-      "stargazers_count": 21304,
+      "stargazers_count": 21305,
       "forks_count": 667,
       "language": "HTML",
       "pushed_at": "2024-07-28T21:12:58Z",
@@ -620,7 +620,7 @@
       "homepage": "https://npm.im/mitt",
       "description": "🥊 Tiny 200 byte functional event emitter / pubsub.",
       "stargazers_count": 11903,
-      "forks_count": 494,
+      "forks_count": 495,
       "language": "TypeScript",
       "pushed_at": "2024-08-14T08:58:20Z",
       "archived": false,
@@ -789,7 +789,7 @@
       "html_url": "https://github.com/krahets/hello-algo",
       "homepage": "https://www.hello-algo.com",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "stargazers_count": 130946,
+      "stargazers_count": 130947,
       "forks_count": 15475,
       "language": "Java",
       "pushed_at": "2026-10-10T21:51:10Z",
@@ -870,7 +870,7 @@
       "html_url": "https://github.com/521xueweihan/HelloGitHub",
       "homepage": "https://hellogithub.com",
       "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-      "stargazers_count": 184045,
+      "stargazers_count": 184060,
       "forks_count": 13080,
       "language": "Python",
       "pushed_at": "2026-09-28T00:11:38Z",
@@ -1101,6 +1101,25 @@
       "tags": [
         "黑话",
         "翻译"
+      ]
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "html_url": "https://github.com/eternity4719/HowToLiveBetter",
+      "homepage": "https://eternity4719.github.io/HowToLiveBetter/",
+      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stargazers_count": 68490,
+      "forks_count": 5933,
+      "language": "HTML",
+      "pushed_at": "2026-10-21T07:20:02Z",
+      "archived": false,
+      "topics": [],
+      "license": "CC-BY-4.0",
+      "category": "chinese",
+      "desc": "火遍全网的开源人生说明书：长寿防病、省钱理财、法律红线、婚恋育儿，条条讲性价比",
+      "tags": [
+        "人生指南",
+        "生活"
       ]
     }
   ]
